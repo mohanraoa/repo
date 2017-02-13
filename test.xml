@@ -6,6 +6,6 @@
                remote="github"
                sync-j="4" />
     
-      <project path="mohanraoa/Test" name="mohanraoa/Test" />
-      <project path="mohanraoa/HelloWorld" name="mohanraoa/HelloWorld" />
+      <project path="mohanraoa/Test" name="Test" />
+      <project path="mohanraoa/HelloWorld" name="HelloWorld" />
 </manifest>
